@@ -12,9 +12,11 @@ My pronouns are *he*/*him*.
 <br />
 
 #### 🖥️ My Projects
-* Firebase / Pyrebase Wrapper For Python
 * Racing League Tools
+* Sorting Visualizer (Sort-It)
 * Python Terminal GUI Library
+* Firebase (Pyrebase) Wrapper For Python
+
 
 #### ⚡ My Skills / 🛠️ Tools I Use
 
