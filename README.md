@@ -1,9 +1,9 @@
 <!-- Thanks to KodingDev for the design: https://github.com/KodingDev -->
 <img align="left" alt="Avatar" width="200px" src="https://raw.githubusercontent.com/Kieran-Lock/Kieran-Lock/master/assets/avatar.png" />
 
-### Hi, there! 👋
+### Welcome to my profile! 👋
 
-Hello! My name is Kieran Lock (or *LMNtal*) - a 17-year-old software developer from the UK! ☕ 
+My name is Kieran Lock (or *LMNtal*) - I'm a 17 year old software developer from the UK! ☕ 
 
 My pronouns are *he*/*him*.
 
@@ -12,26 +12,26 @@ My pronouns are *he*/*him*.
 <br />
 
 #### 🖥️ My Projects
-* 
-* 
-* 
+* Firebase / Pyrebase Wrapper For Python
+* Racing League Tools
+* Python Terminal GUI Library
 
-#### ⚡ My Skills
-* 
-* 
-* 
+#### ⚡ My Skills / 🛠️ Tools I Use
 
-#### 🛠️ Tools I Use
+![WebDev1](https://skillicons.dev/icons?i=ts,js,html,css)
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-<code><img height="20" src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+
+![WebDev2](https://skillicons.dev/icons?i=firebase,gcp,react,nextjs)
+
+
+![Python](https://skillicons.dev/icons?i=py,discord,raspberrypi,flask)
+
+
+![Environments](https://skillicons.dev/icons?i=vscode,stackoverflow,github,git)
+
+
+![GameDev](https://skillicons.dev/icons?i=cs,unity,unreal,arduino)
+
 
 #### 📫 How To Contact me
 Feel free to add me on discord ([LMNtal#3178](https://discordapp.com/users/380798738295422978)), or if you have a question/problem directly relating to one of my projects, you can open an issue.
