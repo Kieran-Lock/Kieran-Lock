@@ -12,10 +12,9 @@ My pronouns are *he*/*him*.
 <br />
 
 #### 🖥️ My Projects
-* Racing League Tools
-* Sorting Visualizer (Sort-It)
-* Python Terminal GUI Library
-* Firebase (Pyrebase) Wrapper For Python
+* [Racing League Tools](https://racingleaguetools.com/)
+* [SQLiteFrame ORM](https://github.com/Kieran-Lock/SQLiteFrame)
+* [Sort-It Sorting Visualizer](https://github.com/OneBigUnit/Sort-It)
 
 
 #### ⚡ My Skills / 🛠️ Tools I Use
