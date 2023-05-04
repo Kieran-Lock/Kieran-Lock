@@ -15,6 +15,7 @@ My pronouns are *he*/*him*.
 * [Racing League Tools](https://racingleaguetools.com/)
 * [SQLiteFrame ORM](https://github.com/Kieran-Lock/SQLiteFrame)
 * [Sort-It Sorting Visualizer](https://github.com/OneBigUnit/Sort-It)
+* [ConsoleGUI Framework](https://github.com/Kieran-Lock/ConsoleGUI)
 
 
 #### ⚡ My Skills / 🛠️ Tools I Use
