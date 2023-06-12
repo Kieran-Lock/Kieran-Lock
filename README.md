@@ -5,8 +5,6 @@
 
 My name is Kieran Lock (or *LMNtal*) - I'm a 18 year old software developer from the UK! 
 
-My pronouns are *he*/*him*.
-
 <br />
 <br />
 <br />
