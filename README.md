@@ -1,17 +1,24 @@
-<!-- Thanks to KodingDev for the design: https://github.com/KodingDev -->
-<img align="left" alt="Avatar" width="180px" src="https://raw.githubusercontent.com/Kieran-Lock/Kieran-Lock/master/assets/avatar.png" />
+<img align="left" alt="Avatar" width="175px" src="https://raw.githubusercontent.com/Kieran-Lock/Kieran-Lock/master/assets/avatar.png" />
 
 # Welcome to my profile! &nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&width=600&height=100&lines=I'm+Kieran+Lock...;Software+/+Web+Developer.;Proficient+with+React+and+Svelte.;Located+in+England,+UK.;">
+<br />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=500&color=FFFFFF&width=435&lines=I'm+Kieran+Lock...;Software+%2F+Web+Developer;Proficient+with+React+and+Svelte;Located+in+England%2C+UK)
 
 <br />
 
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> &nbsp;&nbsp;Projects</h3>
 
-* [Racing League Tools](https://racingleaguetools.com/)
-* [SQLiteFrame ORM](https://github.com/Kieran-Lock/SQLiteFrame)
-* [XtermGUI](https://github.com/Kieran-Lock/XtermGUI)
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=XtermGUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=SQLiteFrame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</div>
+<br />
+<div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=AutoKahoot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=Reddit-GOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</div>
 
 
 <h3><img src="https://media.giphy.com/media/fjOdkUskrUGyOZTHhQ/giphy.gif" width ="30"> &nbsp;&nbsp;Skills</h3>
@@ -39,4 +46,7 @@ Feel free to add me on discord ([@LMNtal](https://discordapp.com/users/380798738
 
 **NOTE:** Some stats may be incorrect as contributions to organizations are not counted.
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Kieran-Lock&count_private=true&theme=tokyonight&show_icons=true)
+<div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieran-Lock&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kieran-Lock&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kieran's GitHub Stats" />
+</div>
