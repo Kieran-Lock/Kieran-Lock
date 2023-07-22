@@ -1,11 +1,9 @@
-<img align="left" alt="Avatar" width="175px" src="https://raw.githubusercontent.com/Kieran-Lock/Kieran-Lock/master/assets/avatar.png" />
+<img align="left" alt="Avatar" width="160px" src="https://raw.githubusercontent.com/Kieran-Lock/Kieran-Lock/master/assets/avatar.png" />
 
-# Welcome to my profile! &nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-<br />
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=500&color=FFFFFF&width=435&lines=I'm+Kieran+Lock...;Software+%2F+Web+Developer;Proficient+with+React+and+Svelte;Located+in+England%2C+UK)
-
+<div>
+    <h1>&nbsp;&nbsp;&nbsp;Welcome to my profile!&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+    <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Typed Description" src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=28&duration=3500&pause=500&color=E6EDF3&width=435&lines=Hi!+​+I'm+Kieran+Lock;Software+%2F+Web+Developer;Proficient+with+React+/+Svelte;Located+in+England%2C+UK" /></h4>
+</div>
 <br />
 
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> &nbsp;&nbsp;Projects</h3>
