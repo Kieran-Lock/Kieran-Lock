@@ -9,18 +9,18 @@
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> &nbsp;&nbsp;Projects</h3>
 
 <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Racing-League-Tools&repo=Public-README&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Racing-League-Tools&repo=Public-README&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" />
+    <a href="https://github.com/Racing-League-Tools/Public-README"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Racing-League-Tools&repo=Public-README&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Racing-League-Tools/Public-README"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Racing-League-Tools&repo=Public-README&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" /></a>
 </div>
 <br />
 <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=XtermGUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=SQLiteFrame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" />
+    <a href="https://github.com/Kieran-Lock/XtermGUI"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=XtermGUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Kieran-Lock/SQLiteFrame"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=SQLiteFrame&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" /></a>
 </div>
 <br />
 <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=AutoKahoot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=Reddit-GOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" />
+    <a href="https://github.com/Kieran-Lock/AutoKahoot"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=AutoKahoot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/Kieran-Lock/Reddit-GOD"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=Reddit-GOD&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" /></a>
 </div>
 
 <h3><img src="https://media.giphy.com/media/fjOdkUskrUGyOZTHhQ/giphy.gif" width ="30"> &nbsp;&nbsp;Skills</h3>
