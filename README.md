@@ -10,7 +10,7 @@
 
 <div>
     <a href="https://github.com/Racing-League-Tools/Racing-League-Tools-Public"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Racing-League-Tools&repo=Racing-League-Tools-Public&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/Racing-League-Tools/ScanDocs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=ScanDocs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" /></a>
+    <a href="https://github.com/Kieran-Lock/ScanDocs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kieran-Lock&repo=ScanDocs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="350px" /></a>
 </div>
 <br />
 <div>
