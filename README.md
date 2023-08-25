@@ -1,4 +1,4 @@
-<img align="left" alt="Avatar" width="160px" src="https://raw.githubusercontent.com/Kieran-Lock/Kieran-Lock/master/assets/avatar.png" />
+<img align="left" alt="Avatar" width="160px" src="https://i.imgur.com/X3N3Akp.png" />
 
 <div>
     <h1>&nbsp;&nbsp;&nbsp;Welcome to my profile!&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
