@@ -1,4 +1,4 @@
-<img align="left" alt="Avatar" width="160px" src="https://i.imgur.com/X3N3Akp.png" />
+<a href="https://kieran-lock-portfolio.vercel.app/"><img align="left" alt="Avatar" width="160px" src="https://i.imgur.com/X3N3Akp.png" /></a>
 
 <div>
     <h1>&nbsp;&nbsp;&nbsp;Welcome to my profile!&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -42,11 +42,15 @@
 
 <h3><img src="https://media.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif" width ="35"> &nbsp;&nbsp;Contact Me</h3>
 
-Feel free to add me on discord ([@LMNtal](https://discordapp.com/users/380798738295422978)), or if you have a question/problem directly relating to one of my projects, you can open an issue.
+<div>
+    <a href="https://linkedin.com/in/kieran-lock-43746528a/"><img height="64" width="64" src="https://cdn.simpleicons.org/linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://discordapp.com/users/380798738295422978"><img height="64" width="64" src="https://cdn.simpleicons.org/discord" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:kieran.lock@outlook.com"><img height="64" width="64" src="https://cdn.simpleicons.org/microsoftoutlook" /></a>
+</div>
 
 <h3><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> &nbsp;&nbsp;Statistics</h3>
 
-**NOTE:** Some stats may be incorrect as contributions to organizations are not counted.
+Some stats may be incorrect as contributions to organizations are not counted.
 
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kieran-Lock&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
